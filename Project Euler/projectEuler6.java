@@ -21,8 +21,13 @@ public class Solution {
     }
     
     public static long sumSquareDiff(long n){
+        //using formula for sum of N squares
         long sumOfSquares = (n*(n+1)*(2*n+1))/6;
+        
+        //using the summation formula and square it
         long squareOfSum = (long) Math.pow(n*(n+1)/2, 2);
+        
+        //find difference
         return Math.abs(sumOfSquares - squareOfSum);
     }
 }
