@@ -8,7 +8,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class projectEuler.java {
+public class projectEuler2.java {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
