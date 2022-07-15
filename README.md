@@ -11,3 +11,4 @@
 | 2 | [Even Fibonnaci numbers](https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem?isFullScreen=true) | [Java](/Project%20Euler/ProjectEuler2.java) |
 | 6 | [Sum square difference](https://www.hackerrank.com/contests/projecteuler/challenges/euler006/problem?isFullScreen=true) | [Java](/Project%20Euler/ProjectEuler6.java) | 
 | 7 | [10001st prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler007/problem?isFullScreen=true) | [Java](/Project%20Euler/ProjectEuler7.java) |
+| 8 | [Largest product in a series](https://www.hackerrank.com/contests/projecteuler/challenges/euler008/problem?isFullScreen=true) | [Java](/Project%20Euler/ProjectEuler8.java) | 
