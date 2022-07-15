@@ -8,7 +8,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class ProjectEuler8 {
+public class ProjectEuler7 {
     //Arraylist keeping first 10 prime numbers
     static ArrayList<Integer> primeNum = new ArrayList<>(Arrays.asList(new Integer[] {2, 3, 5, 7, 11, 13, 17, 19, 23, 29}));
 
