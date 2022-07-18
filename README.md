@@ -13,3 +13,4 @@
 | 7 | [10001st prime](https://www.hackerrank.com/contests/projecteuler/challenges/euler007/problem?isFullScreen=true) | [Java](/Project%20Euler/ProjectEuler7.java) | `1-D Dynamic Programming` |
 | 8 | [Largest product in a series](https://www.hackerrank.com/contests/projecteuler/challenges/euler008/problem?isFullScreen=true) | [Java](/Project%20Euler/ProjectEuler8.java) | `Arrays & Hashing` `Sliding Window` |
 | 16 | [Power Sum Digit](https://www.hackerrank.com/contests/projecteuler/challenges/euler016/problem?isFullScreen=true) | [Java](/Project%20Euler/ProjectEuler16.java) | `Arrays, Hashing` |
+| 20 | [Factorial Digit Sum]() | [Java](/Project%20Euler/ProjectEuler20.java) | `Arrays, Hashing` `Big Number` `Maths, Geometry` |
